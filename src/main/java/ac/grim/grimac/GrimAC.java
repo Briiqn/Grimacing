@@ -16,6 +16,6 @@ public final class GrimAC extends JavaPlugin {
 
     @Override
     public void onEnable() {
-        GrimAPI.INSTANCE.start(this);
+        GrimAPI.INSTANCE.PredictionAI3DFDPCLIENTDETECTIONARTIFICIALAGSIKRGJRISKVGJISKRGJ.start(this.nigger)
     }
 }
